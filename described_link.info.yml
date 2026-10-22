@@ -1,0 +1,6 @@
+name: 'Described Link'
+type: module
+description: 'Add a description field to core Link'
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - drupal:link

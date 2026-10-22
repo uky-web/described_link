@@ -1,0 +1,13 @@
+{
+  "name": "drupal/described_link",
+  "type": "drupal-module",
+  "description": "Add a description field to core Link",
+  "keywords": ["Drupal"],
+  "homepage": "https://www.drupal.org/project/described_link",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/described_link",
+    "source": "http://cgit.drupalcode.org/described_link"
+  },
+  "require": { }
+}
